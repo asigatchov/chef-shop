@@ -1,0 +1,9 @@
+{
+  "id": "root",
+  "root_password": {
+    "encrypted_data": "eqbEVlXbMy5CUbx7siZb53y3ytwWRFTIX7JlXgE2mRE=\n",
+    "iv": "D5Zeras2tZuwSSG3ZG0z9A==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  }
+}

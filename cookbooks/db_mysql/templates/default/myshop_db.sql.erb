@@ -1,0 +1,4 @@
+
+CREATE DATABASE IF NOT EXISTS  myshop CHARACTER SET utf8 COLLATE utf8_general_ci;  
+GRANT ALL ON myshop.*  TO  '<%= node['myshop']['user'] %>'@'<%= node['ipaddress'].split('.')[0..1].join('.')%>.%' IDENTIFIED BY '<%= node['myshop']['password'] %>';
+FLUSH PRIVILEGES;

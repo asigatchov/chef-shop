@@ -1,0 +1,19 @@
+{
+	  "name": "production",
+	    "description": "Main production conf",
+	      "cookbook_versions": {
+		        },
+	        "json_class": "Chef::Environment",
+		  "chef_type": "environment",
+		    "default_attributes": {
+                                 "shop_hosts": { "hosts" :  {
+                                                         "db1": "10.0.3.11",
+                                                         "back1": "10.0.3.21"
+
+                                                }
+              
+				  }
+                      },
+		      "override_attributes": {
+			        }
+}

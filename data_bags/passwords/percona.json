@@ -1,0 +1,9 @@
+{
+  "id": "percona",
+  "root_password": {
+    "encrypted_data": "k2ZGA8xi1EhIMCtHdJdIBZbJZdz+/qaTbKYoxfb/1Ds=\n",
+    "iv": "Q1O5nfhNw3Mkl/FTqnpZbA==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  }
+}

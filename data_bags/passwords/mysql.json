@@ -1,0 +1,21 @@
+{
+  "id": "mysql",
+  "root_password": {
+    "encrypted_data": "9ZDFOmYe9IKBubH9MRTTBLz07kI80jgTg/+mVExxuVA=\n",
+    "iv": "JOYMM0wbvXGiFll8Sudamg==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "root": {
+    "encrypted_data": "qkNwGUnr3URwGlTnfmaM0Ay4gJGRZq7u9O9/Xuyh5Mg=\n",
+    "iv": "aidNDqL2P3Eohd4aMHrb3w==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  },
+  "replication": {
+    "encrypted_data": "Ny5pmUlkLYLQ/9For4QuMDSjrvGcSpaHFLnsGb8ElZ0=\n",
+    "iv": "rm2K9Kq/FGL1uBBmqtCLCQ==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  }
+}

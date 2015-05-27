@@ -1,0 +1,19 @@
+{
+  "name": "development",
+  "description": "",
+  "cookbook_versions": {
+
+  },
+  "json_class": "Chef::Environment",
+  "chef_type": "environment",
+  "default_attributes": {
+                "shop_hosts": { "hosts" :  {
+                                  "db1": "127.0.0.1",
+                                  "back1": "127.0.0.1"
+                                            }
+				  }
+                      },
+  "override_attributes": {
+
+  }
+}

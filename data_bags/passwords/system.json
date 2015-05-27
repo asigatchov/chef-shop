@@ -1,0 +1,9 @@
+{
+  "id": "system",
+  "debian_password": {
+    "encrypted_data": "RK3cxsh1a3eWP3pxpPnbR62Rt/863MSwSIG12Ub9X8U=\n",
+    "iv": "rQVTrvaeO0JAL+Y4RKpAlw==\n",
+    "version": 1,
+    "cipher": "aes-256-cbc"
+  }
+}
